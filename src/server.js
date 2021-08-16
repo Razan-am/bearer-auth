@@ -26,7 +26,7 @@ app.get('/',(req,res)=>{
   res.send('Every thing is working fine')
 });
 
-app.get('./status',(req,res)=>{
+app.get('/status',(req,res)=>{
   res.send({
       domain:'https://bearer-authh.herokuapp.com/',
       status:'running',

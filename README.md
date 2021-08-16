@@ -7,7 +7,7 @@
 - https://bearer-authh.herokuapp.com/
 
 ### Author: Razan Alamleh
- - [test report](https://github.com/Razan-am/basic-auth/runs/3334916146?check_suite_focus=true)
+ - [test report](https://github.com/Razan-am/bearer-auth/runs/3340514443?check_suite_focus=true)
  - [front end](https://bearer-authh.herokuapp.com/status)
 
 ### Setup

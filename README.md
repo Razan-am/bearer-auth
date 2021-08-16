@@ -1,5 +1,5 @@
 
-# Lab: Class 06
+# Lab: Class 07
 
 ## bearer-auth
 
@@ -26,7 +26,7 @@
 - Unit Tests: npm run test
 
 ### UML
-![status](./images/uml.png)
+![uml](./images/uml.png)
 
 ### Notes
 - pull request : https://github.com/Razan-am/basic-auth/pull/4
